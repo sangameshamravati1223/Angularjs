@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #FFB200;
+    overflow: hidden;
+  }
+  li
+  {
+    display: inline;
+  }
+  a {
+    padding: 8px;
+  }
+  li a{
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: grey;
+  }
+  .navigation-bar{
+    width:100%;
+  }
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: cyan;
+    color: white;
+  }
+
+ 
